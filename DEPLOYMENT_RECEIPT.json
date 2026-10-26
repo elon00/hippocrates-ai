@@ -1,0 +1,14 @@
+{
+  "project": "hippocrates-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "HognZspTBHER6ZQp1fDbR24RQy1aWt6RQpqQuogdPd8t",
+  "vault_account": "6zoNZYhovHakFvMYMphwSDrY6xcTmqLXw1cvGKyyvDjK",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3uL5Smc42atToYEdWYrHrTtvpVgMm7oxAUg4wnQikvWCjYzKcPWhFF1pqvbZxMgKu2JZCAHFUxr5r3GcUQG5JZXo",
+  "account_tx": "3rYUHxa1LmdeifLiXzozPKZjcep2gqS5evaTi9JKGYJ5q1aZ1mAfc2BqpBKURHguW136Nqz8nXXHkdMNgPwSHuNf",
+  "mint_tx": "3mdepicuefefShhk8yPPWttZYHyY1SWbh4GKyx1TMEij7TUXUrNM3tgfraNimJvGWjaDW5rKzqhGXgECHCPzTqzz",
+  "solana_explorer_mint": "https://explorer.solana.com/address/HognZspTBHER6ZQp1fDbR24RQy1aWt6RQpqQuogdPd8t?cluster=devnet",
+  "timestamp": "2026-10-26 16:38:48 UTC"
+}
